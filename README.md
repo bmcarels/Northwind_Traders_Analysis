@@ -1,4 +1,4 @@
-# Northwind_Traders_Analysis
+# Northwind_Traders_SQL_Analysis
 ### Northwind Traders: A Strategic Business Analysis
 
 ##### Project Summary:
