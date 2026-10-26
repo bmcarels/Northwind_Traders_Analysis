@@ -2,7 +2,7 @@
 ### Northwind Traders: A Strategic Business Analysis
 
 ##### Project Summary:
-In the project I evaluate employee performance, evaluate product sales and category performance, analyze sales growth, and evaluate customer purchase behavior. 
+In the project I evaluate employee performance, evaluate product sales and category performance, analyze sales growth, and evaluate customer purchase behavior using SQL. 
 
 #### Disclaimer:
 This project is a guided analysis from the platform [dataquest.io](http://dataquest.io). Most of the code, all of the markdown cells, and every analysis interpretation is my own work. The guided projects provide structure on what steps to take for successful project completion. For more information about what projects dataquest.io offers and how they are structured, visit their page using [this link](https://www.dataquest.io/data-science-projects/). 
